@@ -35,7 +35,7 @@ zawsze weryfikuj warunki bezpośrednio u brokera.
 
 ## 7. Własność intelektualna
 Wszystkie prawa do nazwy "TradingTools", logo, design i kodu źródłowego należą do
-[Imię i Nazwisko / nazwa firmy]. Nie wolno kopiować, dekompilować ani redystrybuować
+Szymona Surmacza, osoba fizyczna. Nie wolno kopiować, dekompilować ani redystrybuować
 aplikacji bez pisemnej zgody.
 
 ## 8. Ograniczenie odpowiedzialności
@@ -47,8 +47,8 @@ Możemy zawiesić lub zakończyć dostęp do aplikacji w razie naruszenia regula
 Możesz w każdej chwili odinstalować aplikację.
 
 ## 10. Prawo właściwe
-Regulamin podlega prawu polskiemu (lub innemu — uzgodnij z prawnikiem).
-Spory rozstrzyga sąd właściwy dla siedziby [administratora].
+Regulamin podlega prawu polskiemu.
+Spory rozstrzyga sąd właściwy dla siedziby w Piasecznie 05-500.
 
 ## 11. Zmiany regulaminu
 Powiadomimy o istotnych zmianach. Kontynuacja użytkowania = akceptacja nowej wersji.
@@ -57,9 +57,3 @@ Powiadomimy o istotnych zmianach. Kontynuacja użytkowania = akceptacja nowej we
 tradingtoolssupport@pm.me
 
 ---
-
-**Checklist przed publikacją:**
-- [ ] Review prawne
-- [ ] Hostowane pod stabilnym URL
-- [ ] Link wpisany w App Store / Google Play
-- [ ] Link dostępny też wewnątrz aplikacji (ekran Settings)
