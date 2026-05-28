@@ -4,21 +4,6 @@ permalink: /terms/
 ---
 
 ---
-type: legal
-status: DRAFT — wymaga zatwierdzenia przez prawnika przed publikacją
-tags:
-- trading
-- research
----
-
-# Terms of Service — TradingTools
-
-**Effective date:** [DATA PUBLIKACJI]
-
-> **DRAFT.** Tak jak Privacy Policy — przed publikacją wymaga review prawnego.
-
----
-
 ## 1. Akceptacja
 Korzystając z aplikacji TradingTools akceptujesz niniejszy Regulamin.
 Jeśli się z nim nie zgadzasz — nie używaj aplikacji.
