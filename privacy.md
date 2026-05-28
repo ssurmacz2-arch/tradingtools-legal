@@ -1,4 +1,9 @@
 ---
+title: Privacy Policy
+permalink: /privacy/
+---
+
+---
 status: draft
 tags:
 - trading
