@@ -7,7 +7,7 @@ permalink: /privacy/
 
 ## 1. Kto jest administratorem danych
 
-TradingTools ("Aplikacja") jest tworzona przez **[Imię i Nazwisko / nazwa firmy]**
+TradingTools ("Aplikacja") jest tworzona przez **Szymon Surmacz, osoba fizyczna**
 ("My", "Nas"). Kontakt: **tradingtoolssupport@pm.me**.
 
 ## 2. Jakie dane zbieramy
@@ -22,7 +22,6 @@ Te dane **nie opuszczają Twojego urządzenia**. Są usuwane gdy odinstalujesz a
 
 ### 2.2. Dane przesyłane do dostawców zewnętrznych
 
-**[USUŃ SEKCJE KTÓRYCH NIE BĘDZIESZ UŻYWAĆ]**
 
 - **Reklamy (Google AdMob / [inny dostawca])** — w wersji Free wyświetlamy reklamy.
   Dostawca może zbierać identyfikator reklamowy (IDFA na iOS, GAID na Android),
@@ -31,7 +30,7 @@ Te dane **nie opuszczają Twojego urządzenia**. Są usuwane gdy odinstalujesz a
 - **In-App Purchases (RevenueCat + App Store/Play Store)** — przy zakupie premium
   identyfikator transakcji i status subskrypcji są przetwarzane przez Apple/Google
   i RevenueCat. Nie mamy dostępu do Twoich danych płatniczych.
-- **Crash reporting ([Sentry / Bugsnag / brak])** — anonimowe raporty błędów.
+- **Crash reporting ([Sentry / Bugsnag / brak])** — w pełni anonimowe raporty błędów.
 
 ## 3. Cele przetwarzania
 - Działanie kalkulatorów (lokalnie)
@@ -64,10 +63,3 @@ Powiadomimy o istotnych zmianach w aplikacji oraz na tej stronie.
 tradingtoolssupport@pm.me
 
 ---
-
-**Checklist przed publikacją:**
-- [ ] Prawnik / radca prawny dokonał review
-- [ ] Wybrane są reklamy / IAP / crash reporting i wpisane konkretnie
-- [ ] Polityka jest hostowana publicznie pod stabilnym URL
-- [ ] URL wpisany w App Store Connect i Google Play Console
-- [ ] App Privacy Manifest (iOS 17+) i Data Safety form (Google Play) wypełnione spójnie
