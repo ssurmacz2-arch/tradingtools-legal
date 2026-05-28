@@ -1,4 +1,9 @@
 ---
+title: Terms of Service
+permalink: /terms/
+---
+
+---
 type: legal
 status: DRAFT — wymaga zatwierdzenia przez prawnika przed publikacją
 tags:
