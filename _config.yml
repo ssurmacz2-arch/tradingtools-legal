@@ -1,0 +1,12 @@
+title: TradingTools — Legal
+description: Privacy Policy and Terms of Service for the TradingTools mobile app
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - privacy.md
+  - terms.md
