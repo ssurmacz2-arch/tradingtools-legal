@@ -4,24 +4,6 @@ permalink: /privacy/
 ---
 
 ---
-status: draft
-tags:
-- trading
-- research
-- legal
-type: reference
----
-
-# Privacy Policy — TradingTools
-
-**Effective date:** [DATA PUBLIKACJI]
-**Last updated:** [DATA AKTUALIZACJI]
-
-> **DRAFT.** Ten dokument jest szablonem. Przed użyciem w App Store / Google Play musi
-> zostać sprawdzony przez prawnika z uwzględnieniem RODO/GDPR, CCPA i lokalnych regulacji.
-> Mocno odradzam publikację tej wersji bez review.
-
----
 
 ## 1. Kto jest administratorem danych
 
