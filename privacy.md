@@ -31,19 +31,22 @@ Te dane **nie opuszczają Twojego urządzenia**. Są usuwane gdy odinstalujesz a
   bez danych pozwalających Cię zidentyfikować. Służą wyłącznie diagnozowaniu
   i naprawie błędów. Polityka prywatności Sentry:
   [https://sentry.io/privacy/](https://sentry.io/privacy/).
-
-> **Premium:** funkcja Premium w bieżącej wersji aplikacji jest odblokowywana
-> lokalnie na urządzeniu i **nie wiąże się z żadną transakcją ani przekazywaniem
-> danych płatniczych**. Płatne zakupy w aplikacji (przez Google Play) zostaną
-> wprowadzone w przyszłej wersji — niniejsza polityka zostanie wtedy zaktualizowana.
+- **Zakupy w aplikacji (Google Play + RevenueCat)** — funkcję Premium odblokowujesz
+  jednorazowym zakupem realizowanym przez Google Play. Status zakupu zarządzamy
+  przez RevenueCat, który przetwarza identyfikator zakupu oraz anonimowy
+  identyfikator użytkownika aplikacji (app user ID), aby potwierdzić i przywrócić
+  uprawnienie Premium. **Nie mamy dostępu do Twoich danych płatniczych** (numer karty
+  itp. obsługuje wyłącznie Google Play). Polityka prywatności RevenueCat:
+  [https://www.revenuecat.com/privacy/](https://www.revenuecat.com/privacy/).
 
 ## 3. Cele przetwarzania
 - Działanie kalkulatorów (lokalnie na urządzeniu)
 - Wyświetlanie reklam w wersji Free
+- Realizacja i przywracanie zakupu Premium
 - Diagnozowanie i naprawa błędów (crash reports)
 
 ## 4. Podstawa prawna (RODO)
-- Realizacja umowy (Art. 6 ust. 1 lit. b RODO) — udostępnienie funkcji aplikacji
+- Realizacja umowy (Art. 6 ust. 1 lit. b RODO) — udostępnienie funkcji aplikacji i realizacja zakupu Premium
 - Uzasadniony interes (Art. 6 ust. 1 lit. f RODO) — crash reports
 - Zgoda (Art. 6 ust. 1 lit. a RODO) — reklamy spersonalizowane
 
@@ -67,6 +70,9 @@ Wniosek możesz złożyć pisząc na tradingtoolssupport@pm.me.
   ograniczyć w ustawieniach urządzenia (Android: Ustawienia → Google → Reklamy).
 - **Raporty awarii (Sentry)** są anonimowe i automatycznie usuwane po upływie
   okresu przechowywania dostawcy (standardowo do 90 dni).
+- **Dane zakupu (RevenueCat / Google Play)** — identyfikator zakupu i anonimowy
+  app user ID przechowujemy tak długo, jak to konieczne do utrzymania uprawnienia
+  Premium i jego przywracania. Możesz poprosić o ich usunięcie mailowo (poniżej).
 - **Prośba o usunięcie danych:** ponieważ aplikacja nie wymaga konta i nie
   przechowuje Twoich danych na serwerze, najszybszą metodą usunięcia wszystkich
   danych jest odinstalowanie aplikacji. Jeśli mimo to chcesz złożyć wniosek
