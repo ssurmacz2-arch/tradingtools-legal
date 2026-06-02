@@ -22,23 +22,28 @@ Te dane **nie opuszczają Twojego urządzenia**. Są usuwane gdy odinstalujesz a
 
 ### 2.2. Dane przesyłane do dostawców zewnętrznych
 
+- **Reklamy (Google AdMob)** — w wersji Free wyświetlamy reklamy banerowe.
+  Google AdMob może zbierać identyfikator reklamowy (GAID na Android),
+  przybliżoną lokalizację oraz dane techniczne urządzenia w celu wyświetlania
+  reklam. Szczegóły w polityce prywatności Google:
+  [https://policies.google.com/privacy](https://policies.google.com/privacy).
+- **Raportowanie błędów (Sentry)** — w pełni anonimowe raporty awarii (crash logs),
+  bez danych pozwalających Cię zidentyfikować. Służą wyłącznie diagnozowaniu
+  i naprawie błędów. Polityka prywatności Sentry:
+  [https://sentry.io/privacy/](https://sentry.io/privacy/).
 
-- **Reklamy (Google AdMob / [inny dostawca])** — w wersji Free wyświetlamy reklamy.
-  Dostawca może zbierać identyfikator reklamowy (IDFA na iOS, GAID na Android),
-  przybliżoną lokalizację oraz dane techniczne urządzenia. Szczegóły w polityce
-  prywatności dostawcy: [link].
-- **In-App Purchases (RevenueCat + App Store/Play Store)** — przy zakupie premium
-  identyfikator transakcji i status subskrypcji są przetwarzane przez Apple/Google
-  i RevenueCat. Nie mamy dostępu do Twoich danych płatniczych.
-- **Crash reporting ([Sentry / Bugsnag / brak])** — w pełni anonimowe raporty błędów.
+> **Premium:** funkcja Premium w bieżącej wersji aplikacji jest odblokowywana
+> lokalnie na urządzeniu i **nie wiąże się z żadną transakcją ani przekazywaniem
+> danych płatniczych**. Płatne zakupy w aplikacji (przez Google Play) zostaną
+> wprowadzone w przyszłej wersji — niniejsza polityka zostanie wtedy zaktualizowana.
 
 ## 3. Cele przetwarzania
-- Działanie kalkulatorów (lokalnie)
-- Wyświetlanie reklam (Free) lub realizacja zakupów (Premium)
-- Diagnozowanie błędów (crash reports)
+- Działanie kalkulatorów (lokalnie na urządzeniu)
+- Wyświetlanie reklam w wersji Free
+- Diagnozowanie i naprawa błędów (crash reports)
 
 ## 4. Podstawa prawna (RODO)
-- Realizacja umowy (Art. 6 ust. 1 lit. b RODO) — kalkulatory i Premium
+- Realizacja umowy (Art. 6 ust. 1 lit. b RODO) — udostępnienie funkcji aplikacji
 - Uzasadniony interes (Art. 6 ust. 1 lit. f RODO) — crash reports
 - Zgoda (Art. 6 ust. 1 lit. a RODO) — reklamy spersonalizowane
 
@@ -53,13 +58,28 @@ Patrz sekcja 2.2. Nie sprzedajemy danych osobowych.
 
 Wniosek możesz złożyć pisząc na tradingtoolssupport@pm.me.
 
-## 7. Dzieci
+## 7. Usuwanie i przechowywanie danych
+
+- **Dane na urządzeniu** (ustawienia, dane kalkulatorów, stan Prop Firm, dziennik
+  transakcji) są przechowywane wyłącznie lokalnie i **zostają trwale usunięte
+  w momencie odinstalowania aplikacji**. Nie przechowujemy ich na żadnym serwerze.
+- **Identyfikator reklamowy** wykorzystywany przez AdMob możesz zresetować lub
+  ograniczyć w ustawieniach urządzenia (Android: Ustawienia → Google → Reklamy).
+- **Raporty awarii (Sentry)** są anonimowe i automatycznie usuwane po upływie
+  okresu przechowywania dostawcy (standardowo do 90 dni).
+- **Prośba o usunięcie danych:** ponieważ aplikacja nie wymaga konta i nie
+  przechowuje Twoich danych na serwerze, najszybszą metodą usunięcia wszystkich
+  danych jest odinstalowanie aplikacji. Jeśli mimo to chcesz złożyć wniosek
+  o usunięcie danych przetwarzanych przez dostawców zewnętrznych, napisz na
+  **tradingtoolssupport@pm.me** — odpowiemy w ciągu 30 dni.
+
+## 8. Dzieci
 Aplikacja nie jest skierowana do osób poniżej 13 roku życia (USA — COPPA) ani 16 lat (UE).
 
-## 8. Zmiany polityki
+## 9. Zmiany polityki
 Powiadomimy o istotnych zmianach w aplikacji oraz na tej stronie.
 
-## 9. Kontakt
+## 10. Kontakt
 tradingtoolssupport@pm.me
 
 ---
